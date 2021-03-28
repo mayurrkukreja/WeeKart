@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    font-size: 100%;
+    background: #fff;
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+}
+header h1{
+    align-items: center;
+    color: #103a79;
+    border: 8px solid;
+    padding: 6px 12px;
+    display: inline-block;
